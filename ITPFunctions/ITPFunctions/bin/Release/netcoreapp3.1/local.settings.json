@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "SqlConnectionString": "Server=tcp:apspctoardsql1k.database.windows.net,1433;Initial Catalog=APSPCTOARDSDB1K;Persist Security Info=False;User ID=dbWSS;Password=L5f2iRpaVbcCEpu1K(c#)~Zq*nb#EQz);MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
+    "AzureWebJobsStorageKey": "DefaultEndpointsProtocol=https;AccountName=apspctoarddls2s;AccountKey=oT4dRczfskDeLmpSG4U3i6HekpWwscxsiIvvFO/ueXyHwIeZ/QgLEle9G+X2qpbdC7mZLiU02WJ75zJenvATTw==;EndpointSuffix=core.windows.net",
+    "ContainerName": "testf"
+  }
+}
